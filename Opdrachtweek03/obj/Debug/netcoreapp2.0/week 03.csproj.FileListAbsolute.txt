@@ -1,0 +1,20 @@
+C:\Users\Emile\Code\code-1718.csse\week 03\bin\Debug\netcoreapp2.0\week 03.deps.json
+C:\Users\Emile\Code\code-1718.csse\week 03\bin\Debug\netcoreapp2.0\week 03.runtimeconfig.json
+C:\Users\Emile\Code\code-1718.csse\week 03\bin\Debug\netcoreapp2.0\week 03.runtimeconfig.dev.json
+C:\Users\Emile\Code\code-1718.csse\week 03\bin\Debug\netcoreapp2.0\week 03.dll
+C:\Users\Emile\Code\code-1718.csse\week 03\bin\Debug\netcoreapp2.0\week 03.pdb
+C:\Users\Emile\Code\code-1718.csse\week 03\obj\Debug\netcoreapp2.0\week 03.csproj.CoreCompileInputs.cache
+C:\Users\Emile\Code\code-1718.csse\week 03\obj\Debug\netcoreapp2.0\week 03.AssemblyInfoInputs.cache
+C:\Users\Emile\Code\code-1718.csse\week 03\obj\Debug\netcoreapp2.0\week 03.AssemblyInfo.cs
+C:\Users\Emile\Code\code-1718.csse\week 03\obj\Debug\netcoreapp2.0\week 03.dll
+C:\Users\Emile\Code\code-1718.csse\week 03\obj\Debug\netcoreapp2.0\week 03.pdb
+C:\Users\Emile\Code\Opdrachtweek03\bin\Debug\netcoreapp2.0\week 03.deps.json
+C:\Users\Emile\Code\Opdrachtweek03\bin\Debug\netcoreapp2.0\week 03.runtimeconfig.json
+C:\Users\Emile\Code\Opdrachtweek03\bin\Debug\netcoreapp2.0\week 03.runtimeconfig.dev.json
+C:\Users\Emile\Code\Opdrachtweek03\bin\Debug\netcoreapp2.0\week 03.dll
+C:\Users\Emile\Code\Opdrachtweek03\bin\Debug\netcoreapp2.0\week 03.pdb
+C:\Users\Emile\Code\Opdrachtweek03\obj\Debug\netcoreapp2.0\week 03.csproj.CoreCompileInputs.cache
+C:\Users\Emile\Code\Opdrachtweek03\obj\Debug\netcoreapp2.0\week 03.AssemblyInfoInputs.cache
+C:\Users\Emile\Code\Opdrachtweek03\obj\Debug\netcoreapp2.0\week 03.AssemblyInfo.cs
+C:\Users\Emile\Code\Opdrachtweek03\obj\Debug\netcoreapp2.0\week 03.dll
+C:\Users\Emile\Code\Opdrachtweek03\obj\Debug\netcoreapp2.0\week 03.pdb
