@@ -1,0 +1,10 @@
+C:\Users\Emile\Code\Opdrachtweek4\oefening 2\bin\Debug\netcoreapp2.0\oefening 2.deps.json
+C:\Users\Emile\Code\Opdrachtweek4\oefening 2\bin\Debug\netcoreapp2.0\oefening 2.runtimeconfig.json
+C:\Users\Emile\Code\Opdrachtweek4\oefening 2\bin\Debug\netcoreapp2.0\oefening 2.runtimeconfig.dev.json
+C:\Users\Emile\Code\Opdrachtweek4\oefening 2\bin\Debug\netcoreapp2.0\oefening 2.dll
+C:\Users\Emile\Code\Opdrachtweek4\oefening 2\bin\Debug\netcoreapp2.0\oefening 2.pdb
+C:\Users\Emile\Code\Opdrachtweek4\oefening 2\obj\Debug\netcoreapp2.0\oefening 2.csproj.CoreCompileInputs.cache
+C:\Users\Emile\Code\Opdrachtweek4\oefening 2\obj\Debug\netcoreapp2.0\oefening 2.AssemblyInfoInputs.cache
+C:\Users\Emile\Code\Opdrachtweek4\oefening 2\obj\Debug\netcoreapp2.0\oefening 2.AssemblyInfo.cs
+C:\Users\Emile\Code\Opdrachtweek4\oefening 2\obj\Debug\netcoreapp2.0\oefening 2.dll
+C:\Users\Emile\Code\Opdrachtweek4\oefening 2\obj\Debug\netcoreapp2.0\oefening 2.pdb
